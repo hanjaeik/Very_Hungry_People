@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087247374379",
+    "project_id": "ekffur-acf36",
+    "storage_bucket": "ekffur-acf36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087247374379:android:9043e9755d3b9d2deeb26e",
+        "android_client_info": {
+          "package_name": "com.example.ekffur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbUt2MZGGFgYt26_NuuxeVcu72lYXrZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
